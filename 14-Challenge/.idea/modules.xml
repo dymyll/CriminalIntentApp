@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/14-Challenge.iml" filepath="$PROJECT_DIR$/14-Challenge.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Dymyll\Documents\CIDM_4385\Assignments\Android-Programming-The-Big-Nerd-Ranch-Guide-3rd-Edition\14-Challenge\14-Challenge.iml" filepath="C:\Users\Dymyll\Documents\CIDM_4385\Assignments\Android-Programming-The-Big-Nerd-Ranch-Guide-3rd-Edition\14-Challenge\14-Challenge.iml" />
+      <module fileurl="file://C:\Users\Dymyll\Documents\CIDM_4385\Assignments\Android-Programming-The-Big-Nerd-Ranch-Guide-3rd-Edition\14-Challenge\app\app.iml" filepath="C:\Users\Dymyll\Documents\CIDM_4385\Assignments\Android-Programming-The-Big-Nerd-Ranch-Guide-3rd-Edition\14-Challenge\app\app.iml" />
     </modules>
   </component>
 </project>
